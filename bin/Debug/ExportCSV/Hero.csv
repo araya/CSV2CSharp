@@ -1,0 +1,2 @@
+﻿Id,Name,Honor,Gender,AvatarType,Health,Attack,Defense,MoveSpeed,AtkId,ChargeId,Skill1Id,Skill2Id,StartSkill,DeadSkill,Prefab,Zoom
+101,江湖小虾米,初出茅庐,1,0,10000,50,0,0,1000,1000;1001;1002;1003,0,0,0,0,101,1

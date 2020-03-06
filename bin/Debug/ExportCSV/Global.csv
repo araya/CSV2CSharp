@@ -1,0 +1,10 @@
+﻿Id,name,value
+0,Field Type,字段类型不要删
+1,DefaultHero,101
+2,PassedAbility,71;72;73
+3,ChargeTime,1000;2000;3000
+4,ItemMaxNum,999
+5,RankingSettleTime,1;0
+6,RankingOpenConditions,10;1005
+7,RankingNum,100
+8,EquipResolve,2000

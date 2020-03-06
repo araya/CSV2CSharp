@@ -1,0 +1,6 @@
+﻿Id,MissilePrefab,FlySpeed,LifeTime,Time,StartPos
+100,,5,500,2,0
+101,,5,500,1,4
+102,,5,500,0,0
+103,,0,2000,0,1
+104,,10,4000,1,2
